@@ -36,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gururaj-math&show_icons=true&locale=en&layout=compact" alt="gururaj-math" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gururaj-math&show_icons=true&locale=en" alt="gururaj-math" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gururaj-math&" alt="gururaj-math" /></p>
