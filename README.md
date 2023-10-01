@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Private Web Projects**
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://gururaj-math.netlify.app/](https://gururaj-math.netlify.app/)
 
