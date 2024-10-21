@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://gururaj-math.netlify.app/](https://gururaj-math.netlify.app/)
+- 👨‍💻 All of my projects are available at [**https://gururaj-math.netlify.app/**](**https://gururaj-math.netlify.app/)**
 
 - 📝 I regularly write articles on [https://medium.com/@gururajmath3](https://medium.com/@gururajmath3)
 
